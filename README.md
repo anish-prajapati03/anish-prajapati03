@@ -19,11 +19,13 @@
 ---
 
 
+
 ## 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=anish-prajapati03" alt="Profile Views" />
+![Profile Views](https://hits.sh/anish-prajapati03/hits.svg)
 
 Thanks for visiting my profile! 🚀
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
