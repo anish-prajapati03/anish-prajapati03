@@ -22,7 +22,7 @@
 
 ## 👀 Profile Visitors
 
-![Profile Views](https://hits.sh/anish-prajapati03/hits.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=anish-prajapati03)
 
 Thanks for visiting my profile! 🚀
 
