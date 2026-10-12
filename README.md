@@ -17,9 +17,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-prajapati03&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
 ## 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=anish-prajapati03&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://viewcounter.live/anish-prajapati03?label=Profile%20Views)
+
 
 **Thanks for visiting my profile!** 🚀
 
