@@ -19,7 +19,7 @@
 ---
 ## 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=anish-prajapati03)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-GitHub-blue?style=flat)
 
 **Thanks for visiting my profile!** 🚀
 
